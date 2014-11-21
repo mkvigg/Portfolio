@@ -1,0 +1,33 @@
+body {
+	background-color:
+}
+
+#heading {
+	color: #E7B2B5;
+	font-size: 2.5em;
+	font-family:'Pacifico', cursive;
+	text-align: center;
+	
+}
+#contentRow {
+	background-color: lightgrey;
+	width: 100%;
+	margin: 0 10%;
+	float: center;
+}
+.homepageContent {
+	float: left;
+	background-color:grey;
+	width: 20%;
+	margin: .1em;
+	color: #E7B2B5;
+	display: inline;
+	
+	
+}	
+#aboutinfo {
+	clear: both;
+}
+a {
+	color:#E7B2B5;
+}
