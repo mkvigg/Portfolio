@@ -12,7 +12,7 @@
 	<h1> Mary Kate Viggiano</h1>
 	<h2> About Me </h2>
 </div>
-<div id="menuBar">
+<div id="contentRow">
 	<div id="aboutpage" class="homepageContent">
 		<a href="AboutPage.html">About Page</a>
 	</div>
@@ -28,7 +28,7 @@
 		
 </div>
 		
-	<div id= "aboutInfo">
+	<div id= "aboutinfo">
 		<h2> About </h2> 
 	
 </html>

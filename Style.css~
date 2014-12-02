@@ -1,13 +1,12 @@
 body {
-	background-color:
+	background-color: #F7D5B1;
 }
 
 #heading {
 	color: #E7B2B5;
-	font-size: 2.5em;
+	font-size: 1.8em;
 	font-family:'Pacifico', cursive;
 	text-align: center;
-	
 }
 #contentRow {
 	background-color: lightgrey;
@@ -15,19 +14,34 @@ body {
 	margin: 0 10%;
 	float: center;
 }
-.homepageContent {
+#homepage {
 	float: left;
-	background-color:grey;
 	width: 20%;
 	margin: .1em;
 	color: #E7B2B5;
-	display: inline;
+	display: inline-block;
+	padding-right: 4em;
+	padding-left: 1.5em;
+	padding-bottom: 0em;
+}
+.homepageContent {
+	float: left;
+	width: 20%;
+	margin: .1em;
+	color: #E7B2B5;
+	display: inline-block;
+	padding-right: 4em;
+	padding-left: 1.5em;
+	padding-bottom: 0em;
 	
 	
 }	
 #aboutinfo {
 	clear: both;
+	
 }
 a {
 	color:#E7B2B5;
+	font-size:1.5em;
+	font-family: 'Quicksand', sans-serif;
 }
