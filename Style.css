@@ -8,7 +8,7 @@ body {
 	font-size: 1.9em;
 	font-family:'Pacifico', cursive;
 	text-align: center;
-	background-color: #F5CCE8;
+	background-color: #DBB3B1;
 }
 #homepage {
 	width: 100%;
@@ -75,9 +75,7 @@ body {
 	margin-left: 10%;
 	margin-top: 5%;
 	text-indent: 25px;
-	padding-left: 2em;
-	padding-top: 2em;
-	padding-bottom: 2em;
+	padding: 2em;
 	
 	
 }
