@@ -4,40 +4,58 @@ body {
 
 #heading {
 	color: #E7B2B5;
-	font-size: 1.8em;
+	font-size: 1.9em;
 	font-family:'Pacifico', cursive;
 	text-align: center;
+
+}
+#homepage {
+	width: 100%;
+	color: #E7B2B5;
+}
+#image {
+	float: left;
+	padding-left: 5em;
+	padding-bottom: 3em;
+	
 }
 #contentRow {
+	width: 100%;
+	margin: 0 10%;
+	
+	
+}
+#firstRow {
+	
+}	
+#secondRow {
+	padding-left: 12em;
+	padding-top: 3em;
+	
+	
+}
+	
+#menuBar {
 	background-color: lightgrey;
 	width: 100%;
 	margin: 0 10%;
-	float: center;
-}
-#homepage {
-	float: left;
-	width: 20%;
-	margin: .1em;
-	color: #E7B2B5;
 	display: inline-block;
-	padding-right: 4em;
-	padding-left: 1.5em;
-	padding-bottom: 0em;
-}
-.homepageContent {
-	float: left;
-	width: 20%;
-	margin: .1em;
-	color: #E7B2B5;
-	display: inline-block;
-	padding-right: 4em;
-	padding-left: 1.5em;
-	padding-bottom: 0em;
 	
 	
-}	
-#aboutinfo {
-	clear: both;
+}
+#menuBar a {
+	display: inline-block;
+	padding-left: 3em;
+	padding-right: 1em;
+
+}
+#aboutInfo {
+
+	width: 100%;
+	background-color:#F7E3CD;
+	padding: 5em;
+	font-family: 'Quicksand', sans-serif;
+	text-indent: -20px;
 	
 }
 a {

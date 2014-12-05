@@ -13,23 +13,24 @@
 	<h2> Portfolio </h2>
 </div>
 <div id= "homepage">
-	<div id="contentRow">
-		<div id="aboutpage" class="homepageContent">
-			<a href="AboutPage.html"><img src="images/rbeach.png"></a>
+	<div id="firstRow">
+		<div id= "image">
+		<a href="AboutInfo.html"><img src="images/rbeach.png"HEIGHT="300" WIDTH="300" BORDER="0"></a>
 		</div>
-		<div id="workexperience" class="homepageContent">
-			<a href="WorkExperience.html"> <img src="images/work.png"></a>
+		<div id= "image">
+		<a href="WorkExperience.html"> <img src="images/work.png"HEIGHT="300" WIDTH="300" BORDER="0"></a>
 		</div>
-		<div id="publications" class="homepageContent">
-			<a href="Publications.html"><img src="images/publications.png"></a>
+		<div id= "image">
+		<a href="Publications.html"><img src="images/publications.png"HEIGHT="300" WIDTH="300" BORDER="0"></a>
 		</div>
-		<div id="contact" class="homepageContent">
-			<a href="Contact.html"><img src="images/contact.png"></a>
+	</div>
+	<div id= "secondRow">
+		<div id= "image">
+		<a href="Contact.html"><img src="images/contact.png"HEIGHT="300" WIDTH="300" BORDER="0"></a>
 		</div>
-		<div id="funfacts" class="homepageContent">
-			<a href="FunFacts.html"><img src="images/funfacts.png"></a>
+		<div id= "image">
+		<a href="FunFacts.html"><img src="images/funfacts.png"HEIGHT="300" WIDTH="300" BORDER="0"></a>
 		</div>
-		
 	</div>
 
 </div>

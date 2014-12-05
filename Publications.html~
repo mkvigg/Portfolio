@@ -10,7 +10,7 @@
 <body>
 <div id="heading">
 	<h1> Mary Kate Viggiano</h1>
-	<h2> About Me </h2>
+	<h2> Publications </h2>
 </div>
 
 <div id="menuBar">
@@ -27,9 +27,11 @@
 	
 </div>
 		
-	<div id= "aboutInfo">
-		<h2> About </h2>
-		<p>Hi! My name is Mary Kate Viggiano. I am a student at Saint Joseph’s University in Philadelphia studying Communications. I’m from a small suburb outside of Philly where I grew up with my two older sisters and younger brother. I graduated from the Country Day School of the Sacred Heart in 2012, and anticipate to graduate SJU in 2016. 
-</p><p>Thanks for visiting my site!</p>
-	
-</html>
+<div id= "publications">
+	<h2> Publications </h2>
+	<ul>
+	<li>College Media Matters Blog correspondent</li>
+	<li>USA Today College – Ghosts, needles, and death: Students share their greatest fears</li>
+	<li>USA Today College – Students share 9/11 memories</li>
+	<li>USA Today College – Students offer advice to their 16-year-old selves</li>  
+		

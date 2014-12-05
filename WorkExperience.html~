@@ -17,36 +17,33 @@
 	
 		<a href="index.html">Home</a>
 	
-		<a href="AboutInfo.html">About Page</a>
+		<a href="AboutPage.html">About Page</a>
 	
 		<a href="WorkExperience.html"> Work Experience</a>
 	
 		<a href="Publications.html">Publications</a>
 	
 		<a href="Contact.html">Contact</a>
-		
-		<a href="FunFacts.html">Fun Facts</a>
 	
 </div>
 		
 	<div id= "workExperience">
 		<h2> Work Experience </h2>
-		<u><strong> Serengetee</strong> - Campus Rep Spring 2014</u>
+		<strong> Serengetee</strong> - Campus Rep Spring 2014
 		<ul>
 		<li> Spread the T-shirt brand and mission of social justice across campus, and to family, friends, and strangers</li>
 		<li> Utilize a range of social media to successfully promote the brand and generate conversation</li>
 		</ul>
-		<p> <u><strong> Ritas Water Ice</strong>- Employee - Drexel Hill, PA - April 2009- Present</u></p>
+		<p> <strong> Ritas Water Ice</strong>- Employee - Drexel Hill, PA - April 2009- Present</p>
 		<ul><li> Serve as a team member as a cashier, successfully running the register and processing payments</li>
 		<li> Attend to customers, answer inquiries, and make products </li>
 		<li> Assist in store organization</li>
 		</ul>
-		<p><u><strong> In-home Care</strong>- October 2008- Present</u></p>
+		<p><strong> In-home Care</strong>- October 2008- Present</p>
 		<ul><li> Babysit consistantly four children ranging in age from 5-months-old to 15-years-old</li>
 		<li> Aquire/ demonstrate the ability to handle multiple activities at once </li>
 		<li> Aquire/ demonstrate leadership abilities</li></ul>
-		
-		<p><u><strong>Comcast Headquarters</strong>- Philadelphia, PA - May 2012</u></p>
+		<p><strong>Comcast Headquarters</strong>- Philadelphia, PA - May 2012</p>
 		<ul><li> Completed two weeks learning the internal workings of the Corporate Human Resources Department</li>
 		<li> Attended and participated in colaboration meetings in order to create helpful resources for employees</li>
 		<li> Contributed to a blog for the <i>TeamComcast</i> employee website</li>
