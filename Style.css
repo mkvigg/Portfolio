@@ -16,7 +16,7 @@ body {
 }
 .image {
 	float: left;
-	padding-left: 7em;
+	padding-left: 5.4em;
 	padding-bottom: 3em;
 	position: relative;
 	
@@ -25,7 +25,7 @@ body {
 .caption {
 	position: absolute;
 	top: 2em;
-	left: 3em;
+	left: 2.6em;
 	color: #8C3B6C;
 	font-size: 2.6em;
 	font-family: 'Paytone One', sans-serif;
@@ -33,7 +33,7 @@ body {
 .captionTwo {
 	position: absolute;
 	top: 4em;
-	left: 4em;
+	left: 3.5em;
 	color: #8C3B6C;
 	font-size: 2.6em;
 	font-family: 'Paytone One', sans-serif;
@@ -64,7 +64,7 @@ body {
 }
 #menuBar a {
 	display: inline-block;
-	padding-left: 3em;
+	padding-left: 2.5em;
 	padding-right: 1em;
 
 }
@@ -76,6 +76,8 @@ body {
 	margin-top: 5%;
 	text-indent: 25px;
 	padding: 2em;
+	margin-bottom: 5%;
+	line-height: 2em;
 	
 	
 }
@@ -93,6 +95,7 @@ a {
 	padding-left: 2em;
 	padding-top: 2em;
 	padding-bottom: 2em;
+	line-height: 2em;
 }
 #publications {
 	font-family: 'Quicksand', sans-serif;
@@ -103,6 +106,7 @@ a {
 	padding-left: 2em;
 	padding-top: 2em;
 	padding-bottom: 2em;
+	line-height: 2em;
 }
 #contact {
 	font-family: 'Quicksand', sans-serif;
@@ -110,4 +114,18 @@ a {
 	padding-left: 2em;
 	padding-top: 2em;
 	padding-bottom: 2em;
+	margin-bottom: 5%;
+	line-height: 2em;
 }
+#funfacts {
+	font-family: 'Quicksand', sans-serif;
+	background-color:#F7E3CD;
+	margin-left: 10%;
+	margin-top: 5%;
+	margin-bottom:5%;
+	padding-left: 2em;
+	padding-top: 2em;
+	padding-bottom: 2em;
+	line-height: 2em;
+}
+	

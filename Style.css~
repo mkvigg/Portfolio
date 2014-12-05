@@ -1,23 +1,42 @@
 body {
-	background-color: #F7D5B1;
+	
+	background-color:#F7D5B1;
 }
 
 #heading {
-	color: #E7B2B5;
+	color: #8C3B6C;
 	font-size: 1.9em;
 	font-family:'Pacifico', cursive;
 	text-align: center;
-
+	background-color: #F7E3CD;
 }
 #homepage {
 	width: 100%;
 	color: #E7B2B5;
 }
-#image {
+.image {
 	float: left;
-	padding-left: 5em;
+	padding-left: 5.4em;
 	padding-bottom: 3em;
+	position: relative;
 	
+	
+}
+.caption {
+	position: absolute;
+	top: 2em;
+	left: 2.6em;
+	color: #8C3B6C;
+	font-size: 2.6em;
+	font-family: 'Paytone One', sans-serif;
+}
+.captionTwo {
+	position: absolute;
+	top: 4em;
+	left: 3.5em;
+	color: #8C3B6C;
+	font-size: 2.6em;
+	font-family: 'Paytone One', sans-serif;
 }
 #contentRow {
 	width: 100%;
@@ -29,37 +48,79 @@ body {
 	
 }	
 #secondRow {
-	padding-left: 12em;
+	padding-left: 10em;
 	padding-top: 3em;
 	
 	
 }
 	
 #menuBar {
-	background-color: lightgrey;
+	background-color: #DBB3B1;
 	width: 100%;
-	margin: 0 10%;
+	margin: 0;
 	display: inline-block;
 	
 	
 }
 #menuBar a {
 	display: inline-block;
-	padding-left: 3em;
+	padding-left: 2.5em;
 	padding-right: 1em;
 
 }
 #aboutInfo {
-
-	width: 100%;
+	width: 85%;
 	background-color:#F7E3CD;
-	padding: 5em;
 	font-family: 'Quicksand', sans-serif;
-	text-indent: -20px;
+	margin-left: 10%;
+	margin-top: 5%;
+	text-indent: 25px;
+	padding: 2em;
+	margin-bottom: 5%;
+	
 	
 }
 a {
-	color:#E7B2B5;
-	font-size:1.5em;
+	color:#8C3B6C;
+	font-size:1.4em;
 	font-family: 'Quicksand', sans-serif;
 }
+#workExperience {
+	font-family: 'Quicksand', sans-serif;
+	background-color:#F7E3CD;
+	margin-left: 10%;
+	margin-top: 5%;
+	margin-bottom:5%;
+	padding-left: 2em;
+	padding-top: 2em;
+	padding-bottom: 2em;
+}
+#publications {
+	font-family: 'Quicksand', sans-serif;
+	background-color:#F7E3CD;
+	margin-left: 10%;
+	margin-top: 5%;
+	margin-bottom:5%;
+	padding-left: 2em;
+	padding-top: 2em;
+	padding-bottom: 2em;
+}
+#contact {
+	font-family: 'Quicksand', sans-serif;
+	background-color:#F7E3CD;
+	padding-left: 2em;
+	padding-top: 2em;
+	padding-bottom: 2em;
+	margin-bottom: 5%;
+}
+#funfacts {
+	font-family: 'Quicksand', sans-serif;
+	background-color:#F7E3CD;
+	margin-left: 10%;
+	margin-top: 5%;
+	margin-bottom:5%;
+	padding-left: 2em;
+	padding-top: 2em;
+	padding-bottom: 2em;
+}
+	
