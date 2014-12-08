@@ -3,8 +3,7 @@
 <head>
 <meta charset="utf-8" />
 <link href='http://fonts.googleapis.com/css?family=Quicksand:300' rel='stylesheet' type='text/css'>
-<title> Mary Kate Viggiano </title>
-<link rel="stylesheet" href="Style.css">
+<link href='http://fonts.googleapis.com/css?family=Paytone+One' rel='stylesheet' type='text/css'><link rel="stylesheet" href="Style.css">
 
 </head>
 <body>
@@ -14,22 +13,27 @@
 </div>
 <div id= "homepage">
 	<div id="firstRow">
-		<div id= "image">
+		<div class= "image">
 		<a href="AboutInfo.html"><img src="images/rbeach.png"HEIGHT="300" WIDTH="300" BORDER="0"></a>
+		<div class="caption">About</div>
 		</div>
-		<div id= "image">
+		<div class= "image">
 		<a href="WorkExperience.html"> <img src="images/work.png"HEIGHT="300" WIDTH="300" BORDER="0"></a>
+		<div class="caption">Experience</div>
 		</div>
-		<div id= "image">
+		<div class= "image">
 		<a href="Publications.html"><img src="images/publications.png"HEIGHT="300" WIDTH="300" BORDER="0"></a>
+		<div class="caption"> Publications</div>
 		</div>
 	</div>
 	<div id= "secondRow">
-		<div id= "image">
+		<div class= "image">
 		<a href="Contact.html"><img src="images/contact.png"HEIGHT="300" WIDTH="300" BORDER="0"></a>
+		<div class="captionTwo"> Contact</div>
 		</div>
-		<div id= "image">
+		<div class= "image">
 		<a href="FunFacts.html"><img src="images/funfacts.png"HEIGHT="300" WIDTH="300" BORDER="0"></a>
+		<div class="captionTwo"> Fun Facts</div>
 		</div>
 	</div>
 
