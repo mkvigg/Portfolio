@@ -1,5 +1,6 @@
 body {
-	
+	margin:0;
+	padding:0;
 	background-color:#F7D5B1;
 }
 
@@ -25,17 +26,17 @@ body {
 .caption {
 	position: absolute;
 	top: 2em;
-	left: 2.6em;
+	left: 3.1em;
 	color: #8C3B6C;
-	font-size: 2.6em;
+	font-size: 1.7em;
 	font-family: 'Paytone One', sans-serif;
 }
 .captionTwo {
 	position: absolute;
 	top: 4em;
-	left: 3.5em;
+	left: 4em;
 	color: #8C3B6C;
-	font-size: 2.6em;
+	font-size: 1.7em;
 	font-family: 'Paytone One', sans-serif;
 }
 #contentRow {

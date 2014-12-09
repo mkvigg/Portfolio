@@ -14,26 +14,26 @@
 <div id= "homepage">
 	<div id="firstRow">
 		<div class= "image">
-		<a href="AboutInfo.html"><img src="images/rbeach.png"HEIGHT="300" WIDTH="300" BORDER="0"></a>
-		<div class="caption">About</div>
+		<a href="AboutInfo.html"><img src="images/rbeach.png"HEIGHT="300" WIDTH="300" BORDER="0"><div class="caption">About</div></a>
+		
 		</div>
 		<div class= "image">
-		<a href="WorkExperience.html"> <img src="images/work.png"HEIGHT="300" WIDTH="300" BORDER="0"></a>
-		<div class="caption">Experience</div>
+		<a href="WorkExperience.html"> <img src="images/work.png"HEIGHT="300" WIDTH="300" BORDER="0"><div class="caption">Experience</div></a>
+		
 		</div>
 		<div class= "image">
-		<a href="Publications.html"><img src="images/publications.png"HEIGHT="300" WIDTH="300" BORDER="0"></a>
-		<div class="caption"> Publications</div>
+		<a href="Publications.html"><img src="images/publications.png"HEIGHT="300" WIDTH="300" BORDER="0"><div class="caption"> Publications</div></a>
+		
 		</div>
 	</div>
 	<div id= "secondRow">
 		<div class= "image">
-		<a href="Contact.html"><img src="images/contact.png"HEIGHT="300" WIDTH="300" BORDER="0"></a>
-		<div class="captionTwo"> Contact</div>
+		<a href="Contact.html"><img src="images/contact.png"HEIGHT="300" WIDTH="300" BORDER="0"><div class="captionTwo"> Contact</div></a>
+		
 		</div>
 		<div class= "image">
-		<a href="FunFacts.html"><img src="images/funfacts.png"HEIGHT="300" WIDTH="300" BORDER="0"></a>
-		<div class="captionTwo"> Fun Facts</div>
+		<a href="FunFacts.html"><img src="images/funfacts.png"HEIGHT="300" WIDTH="300" BORDER="0"><div class="captionTwo"> Fun Facts</div></a>
+		
 		</div>
 	</div>
 
